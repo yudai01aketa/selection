@@ -21,3 +21,6 @@ Metrics/LineLength:
 
 Style/FrozenStringLiteralComment:
   Enabled: false
+
+Lint/UselessAssignment:
+  Enabled: false
